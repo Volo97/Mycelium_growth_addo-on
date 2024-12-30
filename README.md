@@ -1,4 +1,4 @@
-# Mycelium_growth_addo-on_v-1(BETA)
+# Mycelium_growth_add-on_v-1(BETA)
 Blender add-on that simulates mycelium growth on surfaces and solids.
 
 - Download and install the addon
